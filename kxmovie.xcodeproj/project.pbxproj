@@ -47,6 +47,7 @@
 		87FD6192163A75DF0090956E /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87E79439163910EA000A0848 /* Accelerate.framework */; };
 		87FD6193163A75E10090956E /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87E79435163910CA000A0848 /* OpenGLES.framework */; };
 		BA12713119F8B98200CF1AF2 /* ContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA12713019F8B98200CF1AF2 /* ContainerViewController.m */; };
+		BA12713319F8BDA900CF1AF2 /* SampleMovies in Resources */ = {isa = PBXBuildFile; fileRef = BA12713219F8BDA900CF1AF2 /* SampleMovies */; };
 		FD20733F5D6A4546A9836E2D /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 49D953B9D2DC48FBB580C6AC /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -106,6 +107,7 @@
 		87FD6175163A75440090956E /* libkxmovie.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libkxmovie.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA12712F19F8B98200CF1AF2 /* ContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContainerViewController.h; sourceTree = "<group>"; };
 		BA12713019F8B98200CF1AF2 /* ContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContainerViewController.m; sourceTree = "<group>"; };
+		BA12713219F8BDA900CF1AF2 /* SampleMovies */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SampleMovies; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -205,6 +207,7 @@
 				87E7942E1639108E000A0848 /* MainViewController.m */,
 				BA12712F19F8B98200CF1AF2 /* ContainerViewController.h */,
 				BA12713019F8B98200CF1AF2 /* ContainerViewController.m */,
+				BA12713219F8BDA900CF1AF2 /* SampleMovies */,
 				87E7940316390F6D000A0848 /* Supporting Files */,
 			);
 			path = KxMovieExample;
@@ -318,6 +321,7 @@
 				87E7940F16390F6D000A0848 /* Default.png in Resources */,
 				87E7941116390F6D000A0848 /* Default@2x.png in Resources */,
 				87E7941316390F6D000A0848 /* Default-568h@2x.png in Resources */,
+				BA12713319F8BDA900CF1AF2 /* SampleMovies in Resources */,
 				87E794271639107F000A0848 /* kxmovie.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

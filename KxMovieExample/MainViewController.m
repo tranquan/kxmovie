@@ -36,6 +36,7 @@
                       @"rtsp://184.72.239.149/vod/mp4:BigBuckBunny_115k.mov",
                       @"http://santai.tv/vod/test/test_format_1.3gp",
                       @"http://santai.tv/vod/test/test_format_1.mp4",
+                      @"rtmp://192.168.238.129:1935/live/test"
                       ];
     
   }
